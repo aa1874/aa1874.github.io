@@ -9,7 +9,7 @@ layout: default
     <h1 itemprop="name headline">{{ page.title | escape }}</h1>
     <p><small>
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = "%b %-d, %Y" -%}
+        {%- assign date_format = "%-d %b %Y" -%}
         {{ page.date | date: date_format }}
       </time>
       {%- if page.author -%}
