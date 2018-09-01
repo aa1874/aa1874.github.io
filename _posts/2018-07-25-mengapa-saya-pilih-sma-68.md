@@ -4,7 +4,8 @@ date: 2018-07-25 17:00:02 +0000
 layout: post
 
 ---
-![](/uploads/fb_img_360_15302419448815290209256895418092\[1\].jpeg)
+![](https://s6.postimg.cc/th5xsb4tt/fb_img_360_15302419448815290209256895418092_1.jpg
+)
 
 Jawabannya mudah: Karena **saya ingin fast track masuk PTN.**
 
