@@ -23,7 +23,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  jekyll
 # destination: "../aa1874.github.io"
 show_excerpts: yes
-paginate: 7
 
 
 # Build settings

@@ -1,5 +1,0 @@
-# .travis.yml
-# This file should be at the root of your project
-language: ruby
-rvm:
- - 2.4
