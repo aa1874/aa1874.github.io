@@ -4,9 +4,7 @@ language: ruby
 cache: bundler
 before_install:
   - gem install bundler
-script:
-#  - ALGOLIA_API_KEY='4f13bf0ba0202c1300ab238dd7b0d43a'
-  - bundle exec jekyll algolia
+# script:
 branches:
   only:
     # Change this to gh-pages if you're deploying using the gh-pages branch
