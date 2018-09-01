@@ -20,7 +20,8 @@
                         <li class="nav-item"><a class="nav-link disabled" href="/stories">Stories</a></li>
                     </ul>
                     <form action="https://duckduckgo.com/?q=site:aa1874.github.io+&kp=-1&kl=us-en" class="form-inline my-2 my-lg-0 float-right">
-                        <input type="search" name="q" id="qsearch" class="form-control mr-sm-2" placeholder="Search site using DuckDuckGo">
+                        <input type="search" name="text" id="qsearch" class="form-control mr-sm-2" placeholder="Search site using DuckDuckGo">
+                        <input type="hidden" name="q" id="searchresult">
                     </form>
                 </div>
             </div>
@@ -42,7 +43,7 @@
                 $("#qsearch").keyup(function(){
                     var oriq = $("input#qsearch").val();
                     var resultq = oriq + " site:aa1874.github.io";
-                    $("#qsearch").val(resultq);
+                    $("#searchresult").val(resultq);
                 });
             });
         </script>
