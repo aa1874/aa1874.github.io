@@ -24,6 +24,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # destination: "../aa1874.github.io"
 show_excerpts: yes
 
+algolia:
+  application_id: 6S3UVJA9SC
+  index_name: aa1874sitesearch # You can replace that with whatever name you want
+
+
 # Build settings
 markdown: kramdown
 # plugins:
