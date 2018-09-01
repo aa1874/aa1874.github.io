@@ -23,3 +23,5 @@ fields:
   config:
     date_format: DD/MM/YYYY
     required: true
+pages:
+- _posts/flash-essay-on-ahmad-subarjo.md
