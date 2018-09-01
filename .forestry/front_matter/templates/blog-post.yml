@@ -3,6 +3,15 @@ label: Blog Post
 hide_body: false
 is_partial: false
 fields:
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - post
+    - story
+  label: Layout
+  name: layout
 - type: text
   name: title
   label: Title
