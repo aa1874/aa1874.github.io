@@ -4,6 +4,8 @@ date: 2018-07-25 17:00:02 +0000
 layout: post
 
 ---
+![](/uploads/fb_img_360_15302419448815290209256895418092\[1\].jpeg)
+
 Jawabannya mudah: Karena **saya ingin fast track masuk PTN.**
 
 **Tapi bukan karena hanya itu saja.** Disini ada 3 faktor yang saya suka.
@@ -16,4 +18,4 @@ Serta setiap minggu ada proyek cerita/essai yang harus dilakukan setiap mingguny
 
 **Ekskul:** Ekskul dan program 68 juga bagus bagus kok. Ada bahasa jepang, bahasa inggris, komputer, musik, marching band, paskibra, rohis, dll.
 
-Itulah 3 faktor yang saya suka dari 68, yang bikin saya lebih suka bersekolah disini.![](/uploads/fb_img_360_15302419448815290209256895418092\[1\].jpeg)
+Itulah 3 faktor yang saya suka dari 68, yang bikin saya lebih suka bersekolah disini.
