@@ -27,6 +27,7 @@ show_excerpts: yes
 algolia:
   application_id: 6S3UVJA9SC
   index_name: aa1874sitesearch # You can replace that with whatever name you want
+  search_only_api_key: 0db5458758f545108275ede969dd2d83
 
 
 # Build settings
