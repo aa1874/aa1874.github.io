@@ -24,4 +24,5 @@ fields:
     date_format: DD/MM/YYYY
     required: true
 pages:
+- _posts/mengapa-saya-pilih-sma-68.md
 - _posts/2018-07-24-flash-essay-on-ahmad-subarjo.md
