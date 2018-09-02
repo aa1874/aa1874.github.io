@@ -3,6 +3,7 @@ title: Flash essay on Ahmad Subarjo
 date: 2018-07-24 17:00:12 +0000
 layout: post
 categories: literasi68
+tags: literasi68
 ---
 Ok. My school wanted me to make an essay on Ahmad Subarjo (Most of the info are from Wikipedia)
 
