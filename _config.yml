@@ -22,13 +22,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 # destination: "../aa1874.github.io"
-show_excerpts: yes
 
 
 # Build settings
 markdown: kramdown
 # plugins:
 #   - jekyll-feed
+show_excerpts: yes
+permalink: /blog/:year/:month/:title.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
