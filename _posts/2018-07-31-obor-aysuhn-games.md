@@ -2,7 +2,7 @@
 title: OBOR AYSUHN GAMES
 date: 2018-07-31 17:00:03 +0000
 layout: post
-
+categories: literasi68
 ---
 Semoga kaldron utama ini bagus hasilnya. Soalnya kaldron ini bakal digunakan untuk menandakan berlangsungnya asian games.
 
