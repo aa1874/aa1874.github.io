@@ -24,6 +24,21 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  jekyll
 # destination: "../aa1874.github.io"
 
+assets:
+  plugins:
+    css: { autoprefixer: {}}
+    img: { optim: {}}
+  source_maps: false
+  sources:
+    - _assets/javascripts
+    - _assets/stylesheets
+    - _assets/yarn
+
+# ga_analytics: # Add Google Analytics tracking code
+
+plugins:
+  - jekyll-assets
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
@@ -35,11 +50,12 @@ permalink: /blog/:categories/:year/:month/:title:output_ext
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .travis.yml
+  - bin/*
+  - circle.yml
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - README.md
+  - yarn.lock
