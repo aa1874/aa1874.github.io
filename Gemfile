@@ -1,15 +1,7 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
 
-gem "autoprefixer-rails"
-gem "html-proofer"
-gem "image_optim"
+git_source(:github) {|repo_name| "https://github.com/aa1874/aa1874.github.io" }
+
 gem "jekyll"
-gem "jekyll-assets"
-gem "jekyll-paginate"
-gem "jekyll-sitemap"
-gem "jemoji"
-gem "mini_magick"
-gem "sass"
-gem "sprockets", "4.0.0.beta6"
-gem "uglifier"
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
