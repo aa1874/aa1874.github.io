@@ -27,8 +27,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-# plugins:
-#   - jekyll-feed
+plugins:
+   - jekyll-feed
+   - jekyll-sitemap
 show_excerpts: yes
 permalink: /blog/:categories/:year/:month/:title:output_ext
 
